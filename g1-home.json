@@ -1,0 +1,74 @@
+[
+	{
+		"titulo": "ONU estima que nº de refugiados pode chegar a 1,5 milhão até este domingo",
+		"linkPrincipal": "https://g1.globo.com/mundo/noticia/2022/03/05/numero-de-refugiados-ucranianos-pode-chegar-a-15-milhao-neste-fim-de-semana-diz-onu.ghtml",
+		"imagem": "https://s2.glbimg.com/M6FYKIbW3M0kxYSeJF_MtiSA8eQ=/0x575:6001x3951/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Q/3/fhYZpbRam90ZBI3gQvwg/ap22064570286320.jpg",
+		"subtitulo": "",
+		"linksRelacionados": []
+	},
+	{
+		"titulo": "AGORA NA GLOBONEWS: as últimas notícias sobre a guerra",
+		"linkPrincipal": "https://g1.globo.com/globonews/ao-vivo/globonews-ao-vivo.ghtml",
+		"imagem": "https://s2.glbimg.com/nPLnf_vAqC4i3msPLPWIh5E9KLw=/50x0:822x434/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/r/r/kGqjRcRoK36oyyiBJbMg/gn.jpg",
+		"subtitulo": "",
+		"linksRelacionados": []
+	},
+	{
+		"titulo": "VÍDEO: funcionários alertaram russos que ataque a usina nuclear colocaria mundo em risco",
+		"linkPrincipal": "https://g1.globo.com/mundo/noticia/2022/03/05/funcionarios-da-usina-nuclear-de-zaporizhzhia-pedem-que-exercito-russo-pare-ataque-video.ghtml",
+		"imagem": "https://s2.glbimg.com/YzrU54bApyuH-0T3uAJSZOImHNM=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/IOJalYEe3fnjHjQNjcThLSQOTBk=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/10361960.jpg",
+		"subtitulo": "",
+		"linksRelacionados": [
+			"https://g1.globo.com/mundo/noticia/2022/03/05/mapa-mostra-onde-ficam-usinas-nucleares-da-ucrania.ghtml"
+		]
+	},
+	{
+		"titulo": "11° dia de Guerra na Ucrânia é marcado por fracasso no cessar-fogo",
+		"linkPrincipal": "https://g1.globo.com/mundo/noticia/2022/03/06/11-dia-de-guerra-na-ucrania-e-marcado-por-troca-de-acusacoes-sobre-o-fracasso-no-cessar-fogo.ghtml",
+		"imagem": "https://s2.glbimg.com/WcmT_6di7L6FE5lUayaA7w6qMQw=/0x0:5000x2813/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/k/J/FNCe5CSDARz7jHYreeNg/ap22064713848532.jpg",
+		"subtitulo": "",
+		"linksRelacionados": []
+	},
+	{
+		"titulo": "Visa e Mastercard decidem suspender operações de cartões na Rússia ",
+		"linkPrincipal": "https://g1.globo.com/economia/noticia/2022/03/05/visa-anuncia-suspensao-de-operacoes-na-russia.ghtml",
+		"subtitulo": "",
+		"linksRelacionados": [
+			"https://g1.globo.com/economia/noticia/2022/03/05/proprietaria-da-marca-zara-anuncia-suspensao-das-atividades-na-russia-por-guerra-na-ucrania.ghtml"
+		]
+	},
+	{
+		"titulo": "'Tudo está indo como planejado', diz Putin",
+		"linkPrincipal": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/03/05/putin-diz-que-sancoes-ocidentais-sao-semelhantes-a-declaracao-de-guerra.ghtml",
+		"imagem": "https://s2.glbimg.com/2ZPDtKbbj_g3wGVdB2iLqeJZzt8=/0x0:640x360/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/e/G/8h5gFDTm2SX6DmZp0Cbg/vladimir-putin-globonews-reproducao.jpg",
+		"subtitulo": "",
+		"linksRelacionados": [
+			"https://g1.globo.com/mundo/noticia/2022/02/25/guerra-na-ucrania-quais-sao-as-sancoes-anunciadas-ate-aqui.ghtml"
+		]
+	},
+	{
+		"titulo": "Zelensky pede aviões de combate e que EUA parem de importar petróleo da Rússia ",
+		"linkPrincipal": "https://g1.globo.com/jornal-nacional/noticia/2022/03/05/zelensky-pede-que-os-eua-parem-de-importar-petroleo-da-russia-e-ajudem-a-ucrania-a-conseguir-avioes-de-combate.ghtml",
+		"imagem": "https://s2.glbimg.com/3wBJofEpnEHlslbcWx3VTU1-Qx0=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/52d7BsUU6YmWexId7r_aCEalhfM=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/10361843.jpg",
+		"subtitulo": "",
+		"linksRelacionados": [
+			"https://g1.globo.com/politica/blog/octavio-guedes/post/2022/03/05/a-guerra-da-comunicacao-putin-e-pravda-e-zelensky-e-rede-social.ghtml"
+		]
+	},
+	{
+		"titulo": "Ucraniano perde pais, mulher e filhos na guerra",
+		"linkPrincipal": "https://g1.globo.com/mundo/noticia/2022/03/05/guerra-na-ucrania-russos-mataram-minha-familia-enquanto-tentavam-fugir.ghtml",
+		"imagem": "https://s2.glbimg.com/sw_Hv9H1ejSsyz7DsSLIA8M8B94=/0x0:789x444/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/X/J/ZTpBBvR0iEmicJznZ1rA/bbc2.jpg",
+		"subtitulo": "Oleg Fedko relata que família foi morta por soldados ao cruzar um posto de controle.",
+		"linksRelacionados": []
+	},
+	{
+		"titulo": "Imagem de adeus de pai e filha de 5 anos em trem em Kiev comove",
+		"linkPrincipal": "https://g1.globo.com/mundo/noticia/2022/03/05/pai-que-despede-de-filha-em-trem-em-kiev-e-um-dos-registros-comoventes-da-guerra.ghtml",
+		"imagem": "https://s2.glbimg.com/Egdm8ucqMCW325Xvb0FBUYQXhPo=/0x427:5000x3240/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/j/GWoUeZSPeUc8f29PoaPg/pai-se-despede-de-filha-em-kiev.jpg",
+		"subtitulo": "",
+		"linksRelacionados": [
+			"https://g1.globo.com/mundo/ucrania-russia/noticia/2022/03/05/fotos-moradores-de-cidade-perto-de-kiev-fogem-em-desespero-diante-do-avanco-russo.ghtml"
+		]
+	}
+]
